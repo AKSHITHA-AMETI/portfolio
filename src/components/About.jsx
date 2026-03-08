@@ -1,6 +1,7 @@
 import '../styles/About.css'
 // icons library for skill cards
 import { FaPython, FaJava, FaHtml5, FaCss3Alt, FaDatabase, FaUsers, FaMicrochip } from 'react-icons/fa'
+import resumePDF from '../../Akshitha_Ameti_Resume.pdf'
 
 function About() {
   // redesign skills section to match the screenshot with icons
@@ -68,7 +69,7 @@ I am passionate about developing innovative projects, improving problem-solving 
         </div>
 
         <div className="resume-link">
-          <a href="/Akshitha_Ameti_Resume.pdf" className="btn btn-primary" download>
+          <a href={resumePDF} className="btn btn-primary" download="Akshitha_Ameti_Resume.pdf">
             ⬇️ Download Resume
           </a>
         </div>
