@@ -7,7 +7,7 @@ function About() {
   const skillCards = [
     {
       icon: <FaPython className="skill-icon" />,                
-      title: 'Python Development',
+      title: 'Python',
       description:
         'Data Structures & Algorithms, Python Libraries (Pandas, NumPy, Matplotlib, Scikit-learn), Regular Expressions'
     },
