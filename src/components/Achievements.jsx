@@ -18,7 +18,7 @@ function Achievements() {
     {
       id: 3,
       title: 'Academic Excellence',
-      description: 'Acquired 9.56 CGPA till now in B.E, reflecting strong academic consistency and dedication.',
+      description: 'Acquired 9.51 CGPA till now in B.E, reflecting strong academic consistency and dedication.',
       icon: FaAward
     }
   ]
