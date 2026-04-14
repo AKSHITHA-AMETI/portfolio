@@ -3,7 +3,6 @@ import '../styles/About.css'
 import { FaPython, FaJava, FaHtml5, FaCss3Alt, FaDatabase, FaUsers, FaMicrochip } from 'react-icons/fa'
 
 function About() {
-  const resumeLink = new URL('/resume.pdf', import.meta.url).href
 
   // redesign skills section to match the screenshot with icons
   const skillCards = [
@@ -70,7 +69,7 @@ I am passionate about developing innovative projects, improving problem-solving 
         </div>
 
         <div className="resume-link">
-          <a href={resumeLink} className="btn btn-primary" download="Akshitha_Ameti_Resume.pdf">
+          <a href="/Akshitha_Ameti_Resume.pdf" className="btn btn-primary" download="Akshitha_Ameti_Resume.pdf">
             ⬇️ Download Resume
           </a>
         </div>
