@@ -6,7 +6,7 @@ function Achievements() {
     {
       id: 1,
       title: 'Coding Excellence',
-      description: 'Solved 300+ problems on LeetCode and 200+ on TakeUForward, demonstrating strong algorithmic problem-solving skills.',
+      description: 'Solved 350+ problems on LeetCode and 200+ on TakeUForward, demonstrating strong algorithmic problem-solving skills.',
       icon: FaCode
     },
     {
