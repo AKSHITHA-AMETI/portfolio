@@ -43,7 +43,6 @@ function About() {
       <div className="container">
         <h2>About Me</h2>
         <div className="about-content">
-          <img src="/profile.jpg" alt="Profile Picture" className="about-image" />
           <div className="about-text">
             <p>
               I am an enthusiastic IT student with a strong interest in Machine Learning, Data Analytics, and Software Development. I enjoy building intelligent applications and using data-driven approaches to solve real-world problems.<br/>
