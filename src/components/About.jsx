@@ -45,13 +45,14 @@ function About() {
         <h2>About Me</h2>
         <div className="about-content">
           <div className="about-text">
-            <p>
-              I am an enthusiastic IT student with a strong interest in Machine Learning, Data Analytics, and Software Development. I enjoy building intelligent applications and using data-driven approaches to solve real-world problems.<br/>
+<p>
+Hi, I'm <strong>Akshitha Ameti</strong>, an aspiring Software Engineer with a strong interest in Artificial Intelligence, Machine Learning, Data Analytics, and Software Development. I enjoy building intelligent applications that solve real-world problems and create meaningful impact.<br/>
 <br/>
-My technical skills include Python, Java, Data Structures & Algorithms, Pandas, NumPy, and scikit-learn, along with experience in web development using HTML, CSS, JavaScript, Node.js, and React. I have also worked with databases such as MongoDB and SQLite.<br/>
+My technical skills include Python, Java, Data Structures & Algorithms, React, Node.js, FastAPI, OpenCV, MediaPipe, Pandas, NumPy, scikit-learn, MongoDB, MySQL, and SQLite. I enjoy leveraging these technologies to develop scalable, data-driven, and AI-powered solutions.<br/>
 <br/>
-I am passionate about developing innovative projects, improving problem-solving skills, and continuously learning new technologies in AI, analytics, and software engineering to create impactful solutions.
-            </p>
+I am passionate about continuous learning, solving challenging problems, and exploring emerging technologies. Through hands-on projects and coding, I strive to build innovative software while growing as a developer and contributing to impactful solutions.
+</p>
+
           </div>
         </div>
 
