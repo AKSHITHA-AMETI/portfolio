@@ -3,47 +3,61 @@ import '../styles/Projects.css'
 function Projects() {
   const projects = [
     {
-      id: 1,
+  id: 1,
+  title: 'Student Focus Tracker',
+  description: 'Developed an AI-based student focus tracking system that monitors attention during online classes using face detection, gaze tracking, head pose estimation, and yawn detection. Built a dashboard to visualize engagement metrics and focus analytics.',
+  technologies: ['Python', 'OpenCV', 'MediaPipe', 'Flask', 'React', 'Chart.js', 'MongoDB', 'Pandas'],
+  link: 'https://github.com/AKSHITHA-AMETI/Mini-Project-'
+},
+    {
+      id: 2,
       title: 'Hair & Skin Care Recommendation System',
       description: 'Built a recommendation system that suggests hair and skincare remedies (natural or treatment) based on user inputs like symptoms and severity. Implemented RandomForestClassifier and Nearest Neighbors to generate personalized care suggestions.',
       technologies: ['Python', 'Scikit-Learn', 'Pandas', 'NumPy', 'Matplotlib'],
       link: 'https://colab.research.google.com/drive/1LawTA9ZZG36dMPvgePFzEe8VlL29d2XQ?usp=sharing'
     },
     {
-      id: 2,
+      id: 3,
       title: 'Event Registration Tracker',
       description: 'Developed a full-stack system to create events and track participant registrations. Implemented backend routes and database models to manage event details and registrations.',
       technologies: ['Node.js', 'Express.js', 'HTML', 'CSS', 'JavaScript', 'MongoDB'],
       link: 'https://github.com/AKSHITHA-AMETI/Event-Registration-Tracker'
     },
     {
-      id: 3,
+      id: 34,
       title: 'Mood Journal',
       description: 'Built a web app to track daily moods using emoji selections and a calendar view. Integrated Spotify recommendations based on the user’s mood.',
       technologies: ['HTML', 'CSS', 'JavaScript', 'Local Storage', 'Spotify API'],
       link: 'https://rococo-basbousa-72ae10.netlify.app/'
     },
     {
-      id: 4,
+      id: 5,
       title: 'Material Access Hub',
       description: 'Developed an inventory system with user/admin dashboards for managing materials. Used Doubly Linked Lists and Stacks for data handling and visualized quantities using Matplotlib.',
       technologies: ['Python', 'Data Structures', 'Matplotlib', 'Tabulate'],
       link: 'https://colab.research.google.com/drive/1kYhX-OtG_zIs2_GzbZsHAVC2_7aRFP9D?usp=sharing'
     },
     {
-      id: 5,
+      id: 6,
       title: 'Water Quality Predictor',
       description: 'Built a machine learning model to predict water potability using water quality parameters. Deployed an interactive interface using Streamlit for real-time predictions.',
       technologies: ['Python', 'Scikit-Learn', 'Pandas', 'NumPy','Streamlit'],
       link: 'https://github.com/AKSHITHA-AMETI/Water-Quality-Prediction'
     },
     {
-      id: 6,
+      id: 7,
       title: 'Weather Web App',
       description: 'Designed and developed a responsive weather web app to display current conditions and forecasts. Implemented API integration for real-time data and a clean, user-friendly interface.',
       technologies: ['HTML', 'CSS', 'JavaScript', 'Weather API'],
       link: 'https://akshitha-ameti.github.io/Weather/'
-    }
+    },
+    {
+  id: 8,
+  title: 'ResumeIQ AI',
+  description: 'Developed an AI-powered resume optimization platform that performs ATS scoring, resume parsing, job description matching, skill gap analysis, and AI-driven resume reviews. Integrated NLP and generative AI to provide personalized recommendations, cover letter generation, and interview preparation.',
+  technologies: ['React', 'Tailwind CSS', 'FastAPI', 'MySQL', 'spaCy', 'NLTK', 'Scikit-Learn', 'Hugging Face', 'Gemini API', 'JWT'],
+  link: ''
+}
   ]
 
   return (
