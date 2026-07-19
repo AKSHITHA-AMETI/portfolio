@@ -50,7 +50,7 @@ function Projects() {
   description: 'Developed an AI-powered resume optimization platform that performs ATS scoring, resume parsing, job description matching, skill gap analysis, and AI-driven resume reviews. Integrated NLP and generative AI to provide personalized recommendations, cover letter generation, and interview preparation.',
   technologies: ['React', 'Tailwind CSS', 'FastAPI', 'MySQL', 'spaCy', 'NLTK', 'Scikit-Learn', 'Hugging Face', 'Gemini API', 'JWT'],
   link: ''
-}
+},
     {
       id: 8,
       title: 'Weather Web App',
