@@ -31,28 +31,28 @@ function Projects() {
       link: 'https://rococo-basbousa-72ae10.netlify.app/'
     },
     {
-      id: 5,
+      id: 6,
       title: 'Material Access Hub',
       description: 'Developed an inventory system with user/admin dashboards for managing materials. Used Doubly Linked Lists and Stacks for data handling and visualized quantities using Matplotlib.',
       technologies: ['Python', 'Data Structures', 'Matplotlib', 'Tabulate'],
       link: 'https://colab.research.google.com/drive/1kYhX-OtG_zIs2_GzbZsHAVC2_7aRFP9D?usp=sharing'
     },
     {
-      id: 6,
+      id: 5,
       title: 'Water Quality Predictor',
       description: 'Built a machine learning model to predict water potability using water quality parameters. Deployed an interactive interface using Streamlit for real-time predictions.',
       technologies: ['Python', 'Scikit-Learn', 'Pandas', 'NumPy','Streamlit'],
       link: 'https://github.com/AKSHITHA-AMETI/Water-Quality-Prediction'
     },
     {
-      id: 7,
+      id: 8,
       title: 'Weather Web App',
       description: 'Designed and developed a responsive weather web app to display current conditions and forecasts. Implemented API integration for real-time data and a clean, user-friendly interface.',
       technologies: ['HTML', 'CSS', 'JavaScript', 'Weather API'],
       link: 'https://akshitha-ameti.github.io/Weather/'
     },
     {
-  id: 8,
+  id: 7,
   title: 'ResumeIQ AI',
   description: 'Developed an AI-powered resume optimization platform that performs ATS scoring, resume parsing, job description matching, skill gap analysis, and AI-driven resume reviews. Integrated NLP and generative AI to provide personalized recommendations, cover letter generation, and interview preparation.',
   technologies: ['React', 'Tailwind CSS', 'FastAPI', 'MySQL', 'spaCy', 'NLTK', 'Scikit-Learn', 'Hugging Face', 'Gemini API', 'JWT'],
